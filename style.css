@@ -1,0 +1,178 @@
+.cooo{ 
+    border: 1px transparent;
+    top: 0px;
+    background-image: url(pix.jpg);
+    background-repeat: round;
+    height: 700px;
+    width: 100%;  
+}
+#firstdiv{
+    position: absolute;
+    top: 360px;
+    border: 1px transparent;
+    left: 300px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+
+}
+#parent{
+    position: relative;
+}
+.nav{
+    font-weight: bolder;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#secondparent{
+    position: relative;
+    background-image: url(2.jpg);
+    background-repeat: round;
+    height: 700px;
+    color: white;
+}
+#sochild{
+    position: absolute;
+    border: 1px solid black;
+    top: 180px;
+    left: 55%;
+}
+#tochild{
+    border: 1px transparent;
+    width: 550px;
+    top: 220px;
+    left: 250px;
+    position: absolute;
+}
+.rating{
+    background-color: black;
+    width: 1000px;
+    height: 170px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    z-index: 1;
+    top: 600px;            
+}
+table{
+    color: antiquewhite;
+    padding: 100px;
+    text-align: center;
+    margin: auto;
+    
+}
+td{
+    padding: 10px;
+    margin: 100px;
+    font-weight: bolder;
+    font-size: 30px;  
+}
+.td-2{
+    font-size: 20px;
+}
+.tabb{
+    border: 1px transparent;
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+#neww{
+    position: relative;
+    border: 1px solid black;
+    width: 100%;
+    height: 600px;
+}
+#c_1{
+    position: absolute;
+    border: 1px solid black;
+    left: 0px;
+    width: 50%;
+    height: 600px;
+    background-color: black;
+}
+#c_2{
+    position: absolute;
+    border: 1px solid black;
+    right: 0px;
+    width: 50%;
+}
+#ccc{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+#bbb{
+    text-align: center;
+    top: 300px;
+    left: 190px;
+    color: white;
+    position: absolute;
+}
+#butt{
+    color: red;
+    background-color: black;
+    font-size: large;
+    font-weight: bold;
+    border: 1px transparent;
+}
+#wed{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 300%;
+}
+#para{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+#musicd{
+    border: 1px solid black;
+    text-align: center;
+    background-color: tomato;
+    height: 600px;
+    position: relative;
+}
+.souns{
+    background-color: aquamarine;
+    top: 200px;
+    width: 500px;
+    left: 410px;
+    position: absolute;
+}
+#mmmm{
+    color: aliceblue;
+    font-size: 100px;
+    margin-top: 40px;
+}
+#pp{
+    color: white;
+
+}
+#papi{
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 630px;
+    font-size: x-large;
+    position: absolute;
+
+}
+#ww{
+    background-color: red;
+    border: transparent;
+}
+#ppppp{
+    position: absolute;
+    border: transparent;
+    margin-top: 350px;
+    margin-left: 595px;
+}
+#foot{
+    border: 1px solid black;
+    height: 600px;
+    background-image: url(ft.jpg);
+    background-repeat: round;
+    text-align: center;
+    color: white;
+    top: 100px;
+}
